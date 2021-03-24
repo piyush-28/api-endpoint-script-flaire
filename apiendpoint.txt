@@ -1,0 +1,5 @@
+> Error handling, Auto save, CSV read rows and write rows, requests errors or timeouts   > 1.5 hour
+>  Adding all the columns, analyzing the value of each column and the keys whose value we require, handling exceptions like values being dicts or lists, 
+  and prototyping > 1.5 hour
+
+> Checking if the scraper is running correctly / sitting through the first iterations and checking if everything is going as expected
